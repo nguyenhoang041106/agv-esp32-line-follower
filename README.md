@@ -89,7 +89,7 @@ Chi tiết từng phép thử xem báo cáo trong `docs/` và thư mục minh ch
 ## Minh chứng
 
 - Video và ảnh chụp đầy đủ: https://drive.google.com/drive/folders/17QGdMTQ-vWNX3h6_7SqFHj77o1Ku7Mqy?usp=sharing
-- Báo cáo: `docs/Bao_Cao_Nhom7_DKTM.pdf`
+- Báo cáo: `docs/Bao_Cao_Nhom7_DKTM.docx`
 
 
 ## Thành viên
